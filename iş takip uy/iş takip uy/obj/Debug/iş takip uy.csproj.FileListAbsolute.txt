@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\bin\Debug\iş takip uy.exe.config
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\bin\Debug\iş takip uy.exe
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\bin\Debug\iş takip uy.pdb
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\obj\Debug\iş takip uy.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\obj\Debug\iş takip uy.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\obj\Debug\iş takip uy.exe
+C:\Users\msi-nb\Desktop\projeler\iş takip uy\iş takip uy\obj\Debug\iş takip uy.pdb

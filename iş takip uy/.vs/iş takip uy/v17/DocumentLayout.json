@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\projeler\\i\u015F takip uy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D66CE3-AF9C-4BFA-B994-7D9906908261}|i\u015F takip uy\\i\u015F takip uy.csproj|c:\\users\\msi-nb\\desktop\\projeler\\i\u015F takip uy\\i\u015F takip uy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D66CE3-AF9C-4BFA-B994-7D9906908261}|i\u015F takip uy\\i\u015F takip uy.csproj|solutionrelative:i\u015F takip uy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\projeler\\i\u015F takip uy\\i\u015F takip uy\\Program.cs",
+              "RelativeDocumentMoniker": "i\u015F takip uy\\Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\projeler\\i\u015F takip uy\\i\u015F takip uy\\Program.cs",
+              "RelativeToolTip": "i\u015F takip uy\\Program.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAAMwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:10:34.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
